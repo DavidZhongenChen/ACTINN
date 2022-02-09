@@ -1,0 +1,1001 @@
+cellname	celltype
+tma_facs_2086	B cell
+tma_facs_3271	B cell
+tma_facs_621	B cell
+tma_facs_15331	Monocyte
+tma_facs_15226	Monocyte
+tma_facs_19186	T cell
+tma_facs_2845	B cell
+tma_facs_687	B cell
+tma_facs_339	B cell
+tma_facs_3337	B cell
+tma_facs_15155	Monocyte
+tma_facs_3008	B cell
+tma_facs_180	B cell
+tma_facs_191	B cell
+tma_facs_20250	T cell
+tma_facs_14488	B cell
+tma_facs_1494	B cell
+tma_facs_1471	B cell
+tma_facs_20500	T cell
+tma_facs_1673	B cell
+tma_facs_14456	Monocyte
+tma_facs_1155	B cell
+tma_facs_14895	Monocyte
+tma_facs_15705	Monocyte
+tma_facs_1356	B cell
+tma_facs_2182	B cell
+tma_facs_10983	Granulocyte
+tma_facs_3205	B cell
+tma_facs_3282	B cell
+tma_facs_1867	B cell
+tma_facs_20498	T cell
+tma_facs_19594	T cell
+tma_facs_14499	Monocyte
+tma_facs_3052	B cell
+tma_facs_15653	B cell
+tma_facs_19357	T cell
+tma_facs_15526	B cell
+tma_facs_19009	T cell
+tma_facs_18985	T cell
+tma_facs_478	B cell
+tma_facs_15630	Monocyte
+tma_facs_2321	B cell
+tma_facs_3200	B cell
+tma_facs_1528	B cell
+tma_facs_11435	Granulocyte
+tma_facs_15168	Monocyte
+tma_facs_399	B cell
+tma_facs_15637	B cell
+tma_facs_523	B cell
+tma_facs_19581	T cell
+tma_facs_14343	Monocyte
+tma_facs_1448	B cell
+tma_facs_15472	Monocyte
+tma_facs_15682	Monocyte
+tma_facs_11117	Granulocyte
+tma_facs_2707	B cell
+tma_facs_1265	B cell
+tma_facs_3103	B cell
+tma_facs_20635	T cell
+tma_facs_1314	B cell
+tma_facs_19057	T cell
+tma_facs_11190	Granulocyte
+tma_facs_186	B cell
+tma_facs_2057	B cell
+tma_facs_20578	T cell
+tma_facs_19674	T cell
+tma_facs_14846	Monocyte
+tma_facs_653	B cell
+tma_facs_11563	Granulocyte
+tma_facs_19564	T cell
+tma_facs_550	B cell
+tma_facs_11218	Granulocyte
+tma_facs_1871	B cell
+tma_facs_15327	Monocyte
+tma_facs_851	B cell
+tma_facs_781	B cell
+tma_facs_14344	Monocyte
+tma_facs_15813	NK cell
+tma_facs_6	B cell
+tma_facs_2977	B cell
+tma_facs_2994	B cell
+tma_facs_2665	B cell
+tma_facs_11070	Granulocyte
+tma_facs_45	B cell
+tma_facs_20913	T cell
+tma_facs_15491	Monocyte
+tma_facs_19692	T cell
+tma_facs_14497	Monocyte
+tma_facs_2085	B cell
+tma_facs_2112	B cell
+tma_facs_20370	T cell
+tma_facs_2350	B cell
+tma_facs_695	B cell
+tma_facs_20214	T cell
+tma_facs_18865	T cell
+tma_facs_14473	Monocyte
+tma_facs_3277	B cell
+tma_facs_20906	T cell
+tma_facs_11074	Granulocyte
+tma_facs_3210	B cell
+tma_facs_2869	B cell
+tma_facs_1683	B cell
+tma_facs_2920	B cell
+tma_facs_1301	B cell
+tma_facs_15938	T cell
+tma_facs_14847	Monocyte
+tma_facs_19028	T cell
+tma_facs_160	B cell
+tma_facs_907	B cell
+tma_facs_11017	Granulocyte
+tma_facs_2759	B cell
+tma_facs_15198	Monocyte
+tma_facs_893	B cell
+tma_facs_296	B cell
+tma_facs_20122	T cell
+tma_facs_2747	B cell
+tma_facs_14599	Monocyte
+tma_facs_11487	Granulocyte
+tma_facs_14	B cell
+tma_facs_14329	Monocyte
+tma_facs_1348	B cell
+tma_facs_1953	B cell
+tma_facs_11619	Granulocyte
+tma_facs_11240	Granulocyte
+tma_facs_20520	T cell
+tma_facs_19871	T cell
+tma_facs_938	B cell
+tma_facs_2325	B cell
+tma_facs_11311	Granulocyte
+tma_facs_1840	B cell
+tma_facs_19218	T cell
+tma_facs_14868	Monocyte
+tma_facs_20228	T cell
+tma_facs_19376	T cell
+tma_facs_14214	Monocyte
+tma_facs_1712	B cell
+tma_facs_19058	T cell
+tma_facs_19378	T cell
+tma_facs_15758	NK cell
+tma_facs_19694	T cell
+tma_facs_955	B cell
+tma_facs_15145	Monocyte
+tma_facs_19346	T cell
+tma_facs_1550	B cell
+tma_facs_15536	Monocyte
+tma_facs_3212	B cell
+tma_facs_2103	B cell
+tma_facs_19419	T cell
+tma_facs_18983	T cell
+tma_facs_3347	B cell
+tma_facs_14129	Monocyte
+tma_facs_19382	T cell
+tma_facs_14563	Monocyte
+tma_facs_20530	T cell
+tma_facs_1889	B cell
+tma_facs_15020	Monocyte
+tma_facs_15421	Monocyte
+tma_facs_15356	Monocyte
+tma_facs_20416	T cell
+tma_facs_412	B cell
+tma_facs_20548	T cell
+tma_facs_11566	Granulocyte
+tma_facs_3110	B cell
+tma_facs_15784	NK cell
+tma_facs_1047	B cell
+tma_facs_19216	T cell
+tma_facs_2346	B cell
+tma_facs_2405	B cell
+tma_facs_489	B cell
+tma_facs_3070	B cell
+tma_facs_1627	B cell
+tma_facs_1478	B cell
+tma_facs_22	B cell
+tma_facs_2267	B cell
+tma_facs_20643	T cell
+tma_facs_19739	T cell
+tma_facs_745	B cell
+tma_facs_20290	T cell
+tma_facs_3414	B cell
+tma_facs_15149	Monocyte
+tma_facs_19559	T cell
+tma_facs_18921	T cell
+tma_facs_1485	B cell
+tma_facs_15864	T cell
+tma_facs_15779	T cell
+tma_facs_15355	Monocyte
+tma_facs_19753	T cell
+tma_facs_15639	B cell
+tma_facs_3292	B cell
+tma_facs_788	B cell
+tma_facs_14317	Monocyte
+tma_facs_19093	T cell
+tma_facs_2316	B cell
+tma_facs_1725	B cell
+tma_facs_17	B cell
+tma_facs_437	B cell
+tma_facs_15231	Monocyte
+tma_facs_1585	B cell
+tma_facs_696	B cell
+tma_facs_51	B cell
+tma_facs_3241	B cell
+tma_facs_14945	Monocyte
+tma_facs_15390	Monocyte
+tma_facs_565	B cell
+tma_facs_15553	B cell
+tma_facs_15964	T cell
+tma_facs_20394	T cell
+tma_facs_20832	T cell
+tma_facs_11353	Granulocyte
+tma_facs_372	B cell
+tma_facs_658	B cell
+tma_facs_20012	T cell
+tma_facs_15495	Monocyte
+tma_facs_20366	T cell
+tma_facs_19498	T cell
+tma_facs_1082	B cell
+tma_facs_14571	Monocyte
+tma_facs_1405	B cell
+tma_facs_3240	B cell
+tma_facs_19690	T cell
+tma_facs_1819	B cell
+tma_facs_11265	Granulocyte
+tma_facs_11467	Granulocyte
+tma_facs_15246	Monocyte
+tma_facs_19747	T cell
+tma_facs_15797	NK cell
+tma_facs_2324	B cell
+tma_facs_11569	Granulocyte
+tma_facs_2833	B cell
+tma_facs_10938	Granulocyte
+tma_facs_15670	Monocyte
+tma_facs_15465	Monocyte
+tma_facs_1151	B cell
+tma_facs_2464	B cell
+tma_facs_20603	T cell
+tma_facs_2462	B cell
+tma_facs_20037	T cell
+tma_facs_15699	Monocyte
+tma_facs_2903	B cell
+tma_facs_15440	Monocyte
+tma_facs_11610	Granulocyte
+tma_facs_14935	Monocyte
+tma_facs_1199	B cell
+tma_facs_2500	B cell
+tma_facs_11032	Granulocyte
+tma_facs_359	B cell
+tma_facs_11186	Granulocyte
+tma_facs_15719	Monocyte
+tma_facs_20011	T cell
+tma_facs_11113	Granulocyte
+tma_facs_19281	T cell
+tma_facs_1423	B cell
+tma_facs_20125	T cell
+tma_facs_2682	B cell
+tma_facs_486	B cell
+tma_facs_1768	B cell
+tma_facs_1822	B cell
+tma_facs_1412	B cell
+tma_facs_18957	T cell
+tma_facs_14652	B cell
+tma_facs_11230	Granulocyte
+tma_facs_20269	T cell
+tma_facs_19980	T cell
+tma_facs_2863	B cell
+tma_facs_14415	Monocyte
+tma_facs_20336	T cell
+tma_facs_20515	T cell
+tma_facs_2272	B cell
+tma_facs_19370	T cell
+tma_facs_685	B cell
+tma_facs_2208	B cell
+tma_facs_1595	B cell
+tma_facs_74	B cell
+tma_facs_14247	Monocyte
+tma_facs_536	B cell
+tma_facs_19608	T cell
+tma_facs_2575	B cell
+tma_facs_1140	B cell
+tma_facs_140	B cell
+tma_facs_1903	B cell
+tma_facs_20255	T cell
+tma_facs_14803	Monocyte
+tma_facs_1420	B cell
+tma_facs_14356	Monocyte
+tma_facs_20851	T cell
+tma_facs_947	B cell
+tma_facs_20275	T cell
+tma_facs_14506	Monocyte
+tma_facs_1775	B cell
+tma_facs_1030	B cell
+tma_facs_1248	B cell
+tma_facs_15111	Monocyte
+tma_facs_14298	Monocyte
+tma_facs_2162	B cell
+tma_facs_665	B cell
+tma_facs_20199	T cell
+tma_facs_11532	Granulocyte
+tma_facs_1444	B cell
+tma_facs_20149	T cell
+tma_facs_15445	Monocyte
+tma_facs_2536	B cell
+tma_facs_2509	B cell
+tma_facs_2261	B cell
+tma_facs_899	B cell
+tma_facs_14227	B cell
+tma_facs_19003	T cell
+tma_facs_19675	T cell
+tma_facs_2735	B cell
+tma_facs_381	B cell
+tma_facs_669	B cell
+tma_facs_1539	B cell
+tma_facs_15055	Monocyte
+tma_facs_15932	NK cell
+tma_facs_19394	T cell
+tma_facs_2958	B cell
+tma_facs_1536	B cell
+tma_facs_1861	B cell
+tma_facs_1724	B cell
+tma_facs_19429	T cell
+tma_facs_19843	T cell
+tma_facs_1460	B cell
+tma_facs_20907	T cell
+tma_facs_15531	B cell
+tma_facs_19741	T cell
+tma_facs_1409	B cell
+tma_facs_3165	B cell
+tma_facs_19301	T cell
+tma_facs_14901	Monocyte
+tma_facs_538	B cell
+tma_facs_14455	Monocyte
+tma_facs_679	B cell
+tma_facs_20105	T cell
+tma_facs_389	B cell
+tma_facs_11044	Granulocyte
+tma_facs_20245	T cell
+tma_facs_15128	Monocyte
+tma_facs_15303	Monocyte
+tma_facs_334	B cell
+tma_facs_19199	T cell
+tma_facs_20431	T cell
+tma_facs_783	B cell
+tma_facs_521	B cell
+tma_facs_11491	Granulocyte
+tma_facs_1260	B cell
+tma_facs_2377	B cell
+tma_facs_819	B cell
+tma_facs_15707	Monocyte
+tma_facs_85	B cell
+tma_facs_2227	B cell
+tma_facs_10984	Granulocyte
+tma_facs_2178	B cell
+tma_facs_15297	Monocyte
+tma_facs_548	B cell
+tma_facs_19124	T cell
+tma_facs_2752	B cell
+tma_facs_20802	T cell
+tma_facs_20401	T cell
+tma_facs_394	B cell
+tma_facs_585	B cell
+tma_facs_2351	B cell
+tma_facs_14784	Monocyte
+tma_facs_11664	Granulocyte
+tma_facs_1526	B cell
+tma_facs_18840	T cell
+tma_facs_19618	T cell
+tma_facs_19442	T cell
+tma_facs_20344	T cell
+tma_facs_839	B cell
+tma_facs_664	B cell
+tma_facs_18885	T cell
+tma_facs_20028	T cell
+tma_facs_3262	B cell
+tma_facs_15542	Monocyte
+tma_facs_19634	T cell
+tma_facs_11415	Granulocyte
+tma_facs_20598	T cell
+tma_facs_20908	T cell
+tma_facs_15172	Monocyte
+tma_facs_432	B cell
+tma_facs_937	B cell
+tma_facs_19019	T cell
+tma_facs_1645	B cell
+tma_facs_15115	Monocyte
+tma_facs_1268	B cell
+tma_facs_20872	T cell
+tma_facs_2522	B cell
+tma_facs_20383	T cell
+tma_facs_10928	Granulocyte
+tma_facs_3130	B cell
+tma_facs_1742	B cell
+tma_facs_782	B cell
+tma_facs_978	B cell
+tma_facs_14892	Monocyte
+tma_facs_18817	T cell
+tma_facs_2317	B cell
+tma_facs_20351	T cell
+tma_facs_19042	T cell
+tma_facs_2129	B cell
+tma_facs_14520	Monocyte
+tma_facs_1135	B cell
+tma_facs_2637	B cell
+tma_facs_444	B cell
+tma_facs_18992	T cell
+tma_facs_3245	B cell
+tma_facs_11214	Granulocyte
+tma_facs_19202	T cell
+tma_facs_2081	B cell
+tma_facs_14441	Monocyte
+tma_facs_721	B cell
+tma_facs_1884	B cell
+tma_facs_15141	Monocyte
+tma_facs_19434	T cell
+tma_facs_20463	T cell
+tma_facs_2296	B cell
+tma_facs_14466	Monocyte
+tma_facs_2373	B cell
+tma_facs_854	B cell
+tma_facs_19363	T cell
+tma_facs_20551	T cell
+tma_facs_1397	B cell
+tma_facs_20504	T cell
+tma_facs_14606	B cell
+tma_facs_18916	T cell
+tma_facs_14583	Monocyte
+tma_facs_61	B cell
+tma_facs_14494	Monocyte
+tma_facs_20178	T cell
+tma_facs_14459	Monocyte
+tma_facs_15771	NK cell
+tma_facs_286	B cell
+tma_facs_15704	Monocyte
+tma_facs_11156	Granulocyte
+tma_facs_10958	Granulocyte
+tma_facs_11199	Granulocyte
+tma_facs_20276	T cell
+tma_facs_102	B cell
+tma_facs_19435	T cell
+tma_facs_15860	T cell
+tma_facs_1973	B cell
+tma_facs_15924	NK cell
+tma_facs_1138	B cell
+tma_facs_15866	NK cell
+tma_facs_20789	T cell
+tma_facs_99	B cell
+tma_facs_20391	T cell
+tma_facs_19194	T cell
+tma_facs_850	B cell
+tma_facs_19546	T cell
+tma_facs_2105	B cell
+tma_facs_15540	Monocyte
+tma_facs_431	B cell
+tma_facs_14182	Monocyte
+tma_facs_15633	Monocyte
+tma_facs_11330	Granulocyte
+tma_facs_19018	T cell
+tma_facs_2428	B cell
+tma_facs_20151	T cell
+tma_facs_15893	NK cell
+tma_facs_19606	T cell
+tma_facs_11347	Granulocyte
+tma_facs_14734	B cell
+tma_facs_3217	B cell
+tma_facs_20876	T cell
+tma_facs_640	B cell
+tma_facs_19318	T cell
+tma_facs_3336	B cell
+tma_facs_347	B cell
+tma_facs_14332	Monocyte
+tma_facs_14804	Monocyte
+tma_facs_1810	B cell
+tma_facs_15380	Monocyte
+tma_facs_1562	B cell
+tma_facs_1565	B cell
+tma_facs_11008	Granulocyte
+tma_facs_2438	B cell
+tma_facs_1615	B cell
+tma_facs_214	B cell
+tma_facs_3058	B cell
+tma_facs_1335	B cell
+tma_facs_2790	B cell
+tma_facs_1991	B cell
+tma_facs_2889	B cell
+tma_facs_15530	B cell
+tma_facs_15281	Monocyte
+tma_facs_2937	B cell
+tma_facs_1760	B cell
+tma_facs_15136	Monocyte
+tma_facs_11464	Granulocyte
+tma_facs_3343	B cell
+tma_facs_15031	Monocyte
+tma_facs_78	B cell
+tma_facs_15941	NK cell
+tma_facs_11634	Granulocyte
+tma_facs_901	B cell
+tma_facs_20043	T cell
+tma_facs_19899	T cell
+tma_facs_19184	T cell
+tma_facs_14418	Monocyte
+tma_facs_317	B cell
+tma_facs_19567	T cell
+tma_facs_15013	Monocyte
+tma_facs_1022	B cell
+tma_facs_1394	B cell
+tma_facs_529	B cell
+tma_facs_497	B cell
+tma_facs_570	B cell
+tma_facs_2307	B cell
+tma_facs_19841	T cell
+tma_facs_2433	B cell
+tma_facs_15658	Monocyte
+tma_facs_1081	B cell
+tma_facs_106	B cell
+tma_facs_15423	Monocyte
+tma_facs_20694	T cell
+tma_facs_3330	B cell
+tma_facs_10969	Granulocyte
+tma_facs_15583	Monocyte
+tma_facs_3162	B cell
+tma_facs_15934	NK cell
+tma_facs_1577	B cell
+tma_facs_736	B cell
+tma_facs_2883	B cell
+tma_facs_1730	B cell
+tma_facs_2625	B cell
+tma_facs_1007	B cell
+tma_facs_15343	Monocyte
+tma_facs_19145	T cell
+tma_facs_2861	B cell
+tma_facs_1875	B cell
+tma_facs_19243	T cell
+tma_facs_3309	B cell
+tma_facs_14243	Monocyte
+tma_facs_2686	B cell
+tma_facs_1769	B cell
+tma_facs_2901	B cell
+tma_facs_20257	T cell
+tma_facs_3184	B cell
+tma_facs_95	B cell
+tma_facs_1195	B cell
+tma_facs_14877	Monocyte
+tma_facs_1888	B cell
+tma_facs_19909	T cell
+tma_facs_19210	T cell
+tma_facs_11063	Granulocyte
+tma_facs_2736	B cell
+tma_facs_341	B cell
+tma_facs_14231	Monocyte
+tma_facs_14950	Monocyte
+tma_facs_20280	T cell
+tma_facs_20421	T cell
+tma_facs_1918	B cell
+tma_facs_2647	B cell
+tma_facs_1169	B cell
+tma_facs_15210	Monocyte
+tma_facs_662	B cell
+tma_facs_11394	Granulocyte
+tma_facs_507	B cell
+tma_facs_396	B cell
+tma_facs_19818	T cell
+tma_facs_927	B cell
+tma_facs_19972	T cell
+tma_facs_3191	B cell
+tma_facs_15835	NK cell
+tma_facs_15858	NK cell
+tma_facs_19056	T cell
+tma_facs_2720	B cell
+tma_facs_3111	B cell
+tma_facs_14443	Monocyte
+tma_facs_14366	Monocyte
+tma_facs_15223	Monocyte
+tma_facs_19661	T cell
+tma_facs_2960	B cell
+tma_facs_14793	Monocyte
+tma_facs_20412	T cell
+tma_facs_2782	B cell
+tma_facs_14993	Monocyte
+tma_facs_3370	B cell
+tma_facs_14482	Monocyte
+tma_facs_19431	T cell
+tma_facs_19411	T cell
+tma_facs_14474	Monocyte
+tma_facs_3197	B cell
+tma_facs_398	B cell
+tma_facs_14989	Monocyte
+tma_facs_19248	T cell
+tma_facs_20239	T cell
+tma_facs_20644	T cell
+tma_facs_3238	B cell
+tma_facs_15865	NK cell
+tma_facs_18924	T cell
+tma_facs_20481	T cell
+tma_facs_2254	B cell
+tma_facs_19782	T cell
+tma_facs_19734	T cell
+tma_facs_3235	B cell
+tma_facs_1625	B cell
+tma_facs_2537	B cell
+tma_facs_20319	T cell
+tma_facs_14737	Monocyte
+tma_facs_20087	T cell
+tma_facs_14620	Monocyte
+tma_facs_20131	T cell
+tma_facs_2443	B cell
+tma_facs_198	B cell
+tma_facs_11555	Granulocyte
+tma_facs_19652	T cell
+tma_facs_1659	B cell
+tma_facs_15186	Monocyte
+tma_facs_338	B cell
+tma_facs_700	B cell
+tma_facs_19912	T cell
+tma_facs_15119	Monocyte
+tma_facs_19561	T cell
+tma_facs_15781	NK cell
+tma_facs_20811	T cell
+tma_facs_2109	B cell
+tma_facs_20761	T cell
+tma_facs_19847	T cell
+tma_facs_14640	Monocyte
+tma_facs_19925	T cell
+tma_facs_14990	Monocyte
+tma_facs_15310	Monocyte
+tma_facs_20145	T cell
+tma_facs_14241	Monocyte
+tma_facs_20309	T cell
+tma_facs_1756	B cell
+tma_facs_14830	Monocyte
+tma_facs_19786	T cell
+tma_facs_19708	T cell
+tma_facs_15069	Monocyte
+tma_facs_3270	B cell
+tma_facs_10931	Granulocyte
+tma_facs_11548	Granulocyte
+tma_facs_11153	Granulocyte
+tma_facs_11482	Granulocyte
+tma_facs_19952	T cell
+tma_facs_20343	T cell
+tma_facs_19524	T cell
+tma_facs_14590	B cell
+tma_facs_115	B cell
+tma_facs_15450	Monocyte
+tma_facs_15804	NK cell
+tma_facs_2284	B cell
+tma_facs_15723	Monocyte
+tma_facs_20388	T cell
+tma_facs_533	B cell
+tma_facs_2908	B cell
+tma_facs_10962	Granulocyte
+tma_facs_1189	B cell
+tma_facs_799	B cell
+tma_facs_534	B cell
+tma_facs_15188	Monocyte
+tma_facs_433	B cell
+tma_facs_20065	T cell
+tma_facs_1785	B cell
+tma_facs_14522	Monocyte
+tma_facs_1202	B cell
+tma_facs_2463	B cell
+tma_facs_14612	Monocyte
+tma_facs_15412	Monocyte
+tma_facs_2239	B cell
+tma_facs_3001	B cell
+tma_facs_14278	Monocyte
+tma_facs_20567	T cell
+tma_facs_19979	T cell
+tma_facs_20560	T cell
+tma_facs_2934	B cell
+tma_facs_11413	Granulocyte
+tma_facs_1589	B cell
+tma_facs_3122	B cell
+tma_facs_20379	T cell
+tma_facs_1249	B cell
+tma_facs_19650	T cell
+tma_facs_826	B cell
+tma_facs_3042	B cell
+tma_facs_3384	B cell
+tma_facs_2700	B cell
+tma_facs_2475	B cell
+tma_facs_15569	Monocyte
+tma_facs_19291	T cell
+tma_facs_2561	B cell
+tma_facs_20083	T cell
+tma_facs_20414	T cell
+tma_facs_791	B cell
+tma_facs_689	B cell
+tma_facs_576	B cell
+tma_facs_1247	B cell
+tma_facs_19174	T cell
+tma_facs_19506	T cell
+tma_facs_3132	B cell
+tma_facs_15742	T cell
+tma_facs_10973	Granulocyte
+tma_facs_2201	B cell
+tma_facs_11078	Granulocyte
+tma_facs_349	B cell
+tma_facs_2918	B cell
+tma_facs_15103	Monocyte
+tma_facs_14779	Monocyte
+tma_facs_20917	T cell
+tma_facs_1497	B cell
+tma_facs_3372	B cell
+tma_facs_19261	T cell
+tma_facs_2144	B cell
+tma_facs_19611	T cell
+tma_facs_697	B cell
+tma_facs_790	B cell
+tma_facs_1879	B cell
+tma_facs_19088	T cell
+tma_facs_15985	NK cell
+tma_facs_2592	B cell
+tma_facs_2310	B cell
+tma_facs_293	B cell
+tma_facs_2242	B cell
+tma_facs_15911	NK cell
+tma_facs_2487	B cell
+tma_facs_2949	B cell
+tma_facs_19811	T cell
+tma_facs_1614	B cell
+tma_facs_20773	T cell
+tma_facs_15822	NK cell
+tma_facs_19462	T cell
+tma_facs_20102	T cell
+tma_facs_14284	Monocyte
+tma_facs_14674	Monocyte
+tma_facs_20741	T cell
+tma_facs_15783	NK cell
+tma_facs_15348	Monocyte
+tma_facs_19945	T cell
+tma_facs_15180	Monocyte
+tma_facs_20059	T cell
+tma_facs_3221	B cell
+tma_facs_3276	B cell
+tma_facs_1599	B cell
+tma_facs_910	B cell
+tma_facs_646	B cell
+tma_facs_2326	B cell
+tma_facs_3357	B cell
+tma_facs_15121	B cell
+tma_facs_1181	B cell
+tma_facs_11081	Granulocyte
+tma_facs_142	B cell
+tma_facs_10997	Granulocyte
+tma_facs_15693	Monocyte
+tma_facs_269	B cell
+tma_facs_20867	T cell
+tma_facs_20511	T cell
+tma_facs_14158	Monocyte
+tma_facs_2172	B cell
+tma_facs_14444	Monocyte
+tma_facs_15678	Monocyte
+tma_facs_1326	B cell
+tma_facs_3407	B cell
+tma_facs_1941	B cell
+tma_facs_1512	B cell
+tma_facs_20614	T cell
+tma_facs_1217	B cell
+tma_facs_19115	T cell
+tma_facs_14626	Monocyte
+tma_facs_14912	Monocyte
+tma_facs_1438	B cell
+tma_facs_20381	T cell
+tma_facs_19331	T cell
+tma_facs_2237	B cell
+tma_facs_19402	T cell
+tma_facs_987	B cell
+tma_facs_14383	Monocyte
+tma_facs_2631	B cell
+tma_facs_19048	T cell
+tma_facs_15095	Monocyte
+tma_facs_11196	Granulocyte
+tma_facs_2963	B cell
+tma_facs_2808	B cell
+tma_facs_18962	T cell
+tma_facs_2020	B cell
+tma_facs_11470	Granulocyte
+tma_facs_3331	B cell
+tma_facs_11160	Granulocyte
+tma_facs_18981	B cell
+tma_facs_15184	Monocyte
+tma_facs_19962	T cell
+tma_facs_19247	T cell
+tma_facs_2721	B cell
+tma_facs_579	B cell
+tma_facs_1637	B cell
+tma_facs_3436	B cell
+tma_facs_19876	T cell
+tma_facs_15374	Monocyte
+tma_facs_1594	B cell
+tma_facs_2210	B cell
+tma_facs_15019	Monocyte
+tma_facs_20001	T cell
+tma_facs_2668	B cell
+tma_facs_833	B cell
+tma_facs_261	B cell
+tma_facs_15438	Monocyte
+tma_facs_3146	B cell
+tma_facs_19307	T cell
+tma_facs_20865	T cell
+tma_facs_15776	NK cell
+tma_facs_462	B cell
+tma_facs_14819	Monocyte
+tma_facs_19985	T cell
+tma_facs_1737	B cell
+tma_facs_400	B cell
+tma_facs_19933	T cell
+tma_facs_873	B cell
+tma_facs_19289	T cell
+tma_facs_14965	Monocyte
+tma_facs_14153	Monocyte
+tma_facs_14496	Monocyte
+tma_facs_918	B cell
+tma_facs_18925	T cell
+tma_facs_872	B cell
+tma_facs_19208	T cell
+tma_facs_14854	Monocyte
+tma_facs_27	B cell
+tma_facs_1789	B cell
+tma_facs_1009	B cell
+tma_facs_1439	B cell
+tma_facs_86	B cell
+tma_facs_1960	B cell
+tma_facs_3202	B cell
+tma_facs_20532	T cell
+tma_facs_20072	T cell
+tma_facs_20594	T cell
+tma_facs_20666	T cell
+tma_facs_708	B cell
+tma_facs_19274	T cell
+tma_facs_20722	T cell
+tma_facs_3279	B cell
+tma_facs_2596	B cell
+tma_facs_20263	T cell
+tma_facs_1209	B cell
+tma_facs_1501	B cell
+tma_facs_20479	T cell
+tma_facs_335	B cell
+tma_facs_15628	Monocyte
+tma_facs_14988	Monocyte
+tma_facs_19185	T cell
+tma_facs_14461	Monocyte
+tma_facs_15677	Monocyte
+tma_facs_19784	T cell
+tma_facs_11313	Granulocyte
+tma_facs_14689	Monocyte
+tma_facs_2968	B cell
+tma_facs_19975	T cell
+tma_facs_2499	B cell
+tma_facs_19158	T cell
+tma_facs_14947	B cell
+tma_facs_1340	B cell
+tma_facs_19166	T cell
+tma_facs_2076	B cell
+tma_facs_3344	B cell
+tma_facs_19938	T cell
+tma_facs_10945	Granulocyte
+tma_facs_15890	NK cell
+tma_facs_3254	B cell
+tma_facs_14609	Monocyte
+tma_facs_11112	Granulocyte
+tma_facs_3417	B cell
+tma_facs_189	B cell
+tma_facs_14264	Monocyte
+tma_facs_1900	B cell
+tma_facs_2256	B cell
+tma_facs_20399	T cell
+tma_facs_225	B cell
+tma_facs_20449	T cell
+tma_facs_15033	Monocyte
+tma_facs_15593	Monocyte
+tma_facs_1939	B cell
+tma_facs_2474	B cell
+tma_facs_14320	Monocyte
+tma_facs_15746	NK cell
+tma_facs_2067	B cell
+tma_facs_2819	B cell
+tma_facs_2801	B cell
+tma_facs_19161	T cell
+tma_facs_661	B cell
+tma_facs_19143	T cell
+tma_facs_11471	Granulocyte
+tma_facs_14215	Monocyte
+tma_facs_3428	B cell
+tma_facs_20837	T cell
+tma_facs_15199	Monocyte
+tma_facs_20069	T cell
+tma_facs_2468	B cell
+tma_facs_14721	Monocyte
+tma_facs_19538	T cell
+tma_facs_14672	Monocyte
+tma_facs_20589	T cell
+tma_facs_15515	Monocyte
+tma_facs_739	B cell
+tma_facs_1792	B cell
+tma_facs_15270	Monocyte
+tma_facs_755	B cell
+tma_facs_14498	Monocyte
+tma_facs_10947	Granulocyte
+tma_facs_2087	B cell
+tma_facs_19607	T cell
+tma_facs_3310	B cell
+tma_facs_15556	Monocyte
+tma_facs_3416	B cell
+tma_facs_15905	NK cell
+tma_facs_14766	Monocyte
+tma_facs_14863	Monocyte
+tma_facs_15839	T cell
+tma_facs_2706	B cell
+tma_facs_14181	Monocyte
+tma_facs_11308	Granulocyte
+tma_facs_11141	Granulocyte
+tma_facs_15368	Monocyte
+tma_facs_14435	Monocyte
+tma_facs_14198	Monocyte
+tma_facs_1755	B cell
+tma_facs_14370	Monocyte
+tma_facs_15205	Monocyte
+tma_facs_128	B cell
+tma_facs_19465	T cell
+tma_facs_2278	B cell
+tma_facs_3206	B cell
+tma_facs_11147	Granulocyte
+tma_facs_15922	T cell
+tma_facs_14902	Monocyte
+tma_facs_76	B cell
+tma_facs_14578	Monocyte
+tma_facs_11171	Granulocyte
+tma_facs_20468	T cell
+tma_facs_11554	Granulocyte
+tma_facs_14304	Monocyte
+tma_facs_15807	NK cell
+tma_facs_11516	Granulocyte
+tma_facs_19727	T cell
+tma_facs_20201	T cell
+tma_facs_15056	Monocyte
+tma_facs_761	B cell
+tma_facs_20226	T cell
+tma_facs_1427	B cell
+tma_facs_2758	B cell
+tma_facs_14336	Monocyte
+tma_facs_20552	T cell
+tma_facs_19168	T cell
+tma_facs_19665	T cell
+tma_facs_18928	T cell
+tma_facs_20860	T cell
+tma_facs_1474	B cell
+tma_facs_14457	Monocyte
+tma_facs_20143	T cell
+tma_facs_14820	Monocyte
+tma_facs_2854	B cell
+tma_facs_2344	B cell
+tma_facs_2557	B cell
+tma_facs_15107	B cell
+tma_facs_19328	T cell
+tma_facs_20771	T cell
+tma_facs_592	B cell
+tma_facs_14328	Monocyte
+tma_facs_19285	T cell
+tma_facs_15315	Monocyte
+tma_facs_2282	B cell
+tma_facs_10960	Granulocyte
+tma_facs_18967	T cell
+tma_facs_3151	B cell
+tma_facs_3082	B cell
+tma_facs_15393	Monocyte
+tma_facs_1570	B cell
+tma_facs_19963	T cell
+tma_facs_15398	Monocyte
+tma_facs_1077	B cell
+tma_facs_11170	Granulocyte
+tma_facs_15675	Monocyte
+tma_facs_1524	B cell
+tma_facs_1734	B cell
+tma_facs_19889	T cell
+tma_facs_2541	B cell
+tma_facs_11076	Granulocyte
+tma_facs_19235	T cell
+tma_facs_2480	B cell
+tma_facs_19454	T cell
+tma_facs_11641	Granulocyte
+tma_facs_11098	Granulocyte
+tma_facs_1292	B cell
+tma_facs_182	B cell
+tma_facs_15654	Monocyte
+tma_facs_3167	B cell
+tma_facs_15305	Monocyte
+tma_facs_19591	T cell
+tma_facs_2302	B cell
+tma_facs_14773	Monocyte
+tma_facs_15787	NK cell
+tma_facs_19476	T cell
+tma_facs_1766	B cell
+tma_facs_663	B cell
+tma_facs_11280	Granulocyte
+tma_facs_861	B cell
+tma_facs_15568	B cell
+tma_facs_19237	T cell
+tma_facs_19029	T cell
+tma_facs_566	B cell
+tma_facs_2923	B cell
+tma_facs_866	B cell
