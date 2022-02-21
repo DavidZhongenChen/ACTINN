@@ -4,7 +4,7 @@ library(rhdf5)
 library(Matrix)
 
 # Read in the data
-h5_file = h5read("./mouse_leukocyte.h5", name="dge")
+h5_file = h5read("./test_set", name="dge")
 sample.data = t(h5_file$block0_values)
 colnames(sample.data) = h5_file$axis0
 rownames(sample.data) = h5_file$axis1
